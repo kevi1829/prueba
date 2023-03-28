@@ -10,4 +10,6 @@ Este es un curso introductorio a procesamiento de datos geograficos
 2. Aprender a utilizar lenguaje [Markdown](https://markdown.es/)
 3. Aprender a utilizar [git](https://git-scm.com/download/win)
 
+<img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Panoramic_view_Andes-Chile.jpg/275px-Panoramic_view_Andes-Chile.jpg" width="">
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Panoramic_view_Andes-Chile.jpg/275px-Panoramic_view_Andes-Chile.jpg)
