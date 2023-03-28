@@ -9,3 +9,5 @@ Este es un curso introductorio a procesamiento de datos geograficos
 1. Aprender el lenguaje de progtamacion en [R](https://www.r-project.org/).
 2. Aprender a utilizar lenguaje [Markdown](https://markdown.es/)
 3. Aprender a utilizar [git](https://git-scm.com/download/win)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Panoramic_view_Andes-Chile.jpg/275px-Panoramic_view_Andes-Chile.jpg)
